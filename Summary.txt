@@ -1,0 +1,6 @@
+Create Charts and Dashboards in Microsoft Excel using sales data from a sample company.
+Create PivotTables in Microsoft Excel.
+Create and format a Line Chart in Microsoft Excel to represent sales profits by month.
+Create and format a Bar Chart in Microsoft Excel to represent sales profits by Salesperson.
+Create and format Pie Charts in Microsoft Excel to represent sales percentages by product category.
+Create a Dashboard in Microsoft Excel containing charts and tables.
